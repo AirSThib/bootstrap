@@ -157,7 +157,6 @@ class Toast extends BaseComponent {
     }
 
     super.dispose()
-    this._config = null
   }
 
   // Private
